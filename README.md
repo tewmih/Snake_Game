@@ -2,8 +2,6 @@ Title: Snake Game
 
 Group: 5
 
-This is our first project on the website, which is the result of collaboration among the following group members.
-
 Group Members:
 _________________________________________________________
   Name--------------------------------ID
